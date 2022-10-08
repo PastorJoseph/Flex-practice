@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+
+}
