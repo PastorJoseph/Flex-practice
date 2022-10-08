@@ -1,2 +1,2 @@
 # Flex-practice
-Getting the hand of flexbox 
+Getting the hang of flexbox 
