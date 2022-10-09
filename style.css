@@ -30,3 +30,9 @@ body {
 
 
 }
+
+.second-container {
+    display: flex;
+    background-color: blanchedalmond;
+    justify-content: space-around;
+}
