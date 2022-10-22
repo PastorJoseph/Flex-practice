@@ -39,3 +39,15 @@ body {
     justify-content: space-around;
     text-align: center;
 }
+
+.third-container {
+    display: flex;
+    background-color:lightblue;
+    justify-content: space-around;
+    text-align: center;
+}
+ 
+.item2 {
+    display: flex;
+    justify-content: center;
+}
